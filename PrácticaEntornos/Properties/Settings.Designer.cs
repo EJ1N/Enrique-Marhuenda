@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Práctica_entornos.Properties
+namespace PrácticaEntornos.Properties
 {
 
 

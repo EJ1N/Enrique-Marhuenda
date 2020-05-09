@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DE953995-FAE0-49E6-8FA2-EA19FD5DDD15}</ProjectGuid>
+    <ProjectGuid>{0403499D-4721-4746-BFDF-D176FC607639}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Práctica_entornos</RootNamespace>
-    <AssemblyName>Práctica_entornos</AssemblyName>
+    <RootNamespace>PrácticaEntornos</RootNamespace>
+    <AssemblyName>PrácticaEntornos</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
