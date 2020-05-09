@@ -62,9 +62,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(560, 19);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(49, 13);
+            this.label3.Size = new System.Drawing.Size(32, 13);
             this.label3.TabIndex = 2;
-            this.label3.Text = "Teléfono";
+            this.label3.Text = "Móvil";
             // 
             // tNombre
             // 
@@ -89,7 +89,7 @@
             // 
             // tListaSocios
             // 
-            this.tListaSocios.Location = new System.Drawing.Point(101, 151);
+            this.tListaSocios.Location = new System.Drawing.Point(101, 162);
             this.tListaSocios.Multiline = true;
             this.tListaSocios.Name = "tListaSocios";
             this.tListaSocios.ReadOnly = true;
@@ -113,6 +113,7 @@
             this.bGuardar.TabIndex = 8;
             this.bGuardar.Text = "Guardar";
             this.bGuardar.UseVisualStyleBackColor = true;
+            this.bGuardar.Click += new System.EventHandler(this.bGuardar_Click);
             // 
             // Form1
             // 

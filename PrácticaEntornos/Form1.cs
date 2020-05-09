@@ -15,7 +15,11 @@ namespace PrácticaEntornos
         public Form1()
         {
             InitializeComponent();
+        }
 
+        private void bGuardar_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }
