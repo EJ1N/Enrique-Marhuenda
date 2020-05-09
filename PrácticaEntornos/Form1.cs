@@ -21,5 +21,13 @@ namespace PrácticaEntornos
         {
             
         }
+
+        private void bGuardar_Click(object sender, EventArgs e)
+        {
+            string nombre = tNombre.Text;
+            string apellidos = tApellidos.Text;
+            string telefono = tTelefono.Text;
+            tListaSocios.Text = "Datos socio: " + nombre + " " + apellidos + " " + telefono;
+        }
     }
 }
